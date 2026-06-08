@@ -1,0 +1,39 @@
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+.DS_Store?
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+tmp/
+temp/
+
+# Node (if you use any JS tools)
+node_modules/
+package-lock.json
+
+# Python (if you use any scripts)
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Compiled files
+*.class
+*.o
+*.out
